@@ -1,2 +1,2 @@
 # Instagram Video Downloader
- A CLI Application that downloads All Post Files and downloads insta video  using Instagram API
+ A CLI Application that allows you to access Instagram on your device using Instagram API
